@@ -8,4 +8,4 @@
 |**<a href="https://pr-mex.github.io/vanessa-automation/dev/"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/></a>**|**Vanessa Automation**|**Статьи, видео и уроки по Vanessa Automation в формате видео, pdf и markdown**|
 |**[stepik.org](https://stepik.org/course/185666/promo)**|**"Разработчик 1С с нуля"**|**Платный видеокурс**|
 |**[stepik.org](https://stepik.org/course/187221/promo)**|**"1С: Система компоновки данных"**|**Платный видеокурс**|
-|**[курсы-по-1с.рф](https://курсы-по-1с.рф/courses/1c-testing-qa-2022/)**|**"Сценарное тестирование в 1С: настройка и практика использования"**|**Платный видеокурс**|
+|**[курсы-по-1с](https://курсы-по-1с.рф/courses/1c-testing-qa-2022/)**|**"Сценарное тестирование в 1С: настройка и практика использования"**|**Платный видеокурс**|
