@@ -15,6 +15,7 @@
 |**[infostart.ru](https://infostart.ru/1c/articles/1448125/)**|**Vanessa, как начать создавать видеоинструкции**|**Статья с примерами**|
 |**<a href="https://www.youtube.com/@ironskills-1c/videos"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/></a>**|**Ironskills**|**Замер производительности в 1С, Как прочитать JSON в 1С и т.д.**|
 |**<a href="https://pr-mex.github.io/vanessa-automation/dev/"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/></a>**|**Vanessa Automation**|**Статьи, видео и уроки по Vanessa Automation в формате видео, pdf и markdown**|
+|**[infostart.ru](https://infostart.ru/edu/2188818/)**|**Разработчик 1С**|**Бесплатный мини-курс**|
 |**[stepik.org](https://stepik.org/course/185666/info)**|**Разработчик 1С с нуля**|**Платный видеокурс**|
 |**[stepik.org](https://stepik.org/course/187221/promo)**|**1С: Система компоновки данных**|**Платный видеокурс**|
 |**[курсы-по-1с](https://курсы-по-1с.рф/courses/1c-testing-qa-2022/)**|**Сценарное тестирование в 1С: настройка и практика использования**|**Платный видеокурс**|
