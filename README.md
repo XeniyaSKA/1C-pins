@@ -13,10 +13,11 @@
 |**<a href="https://www.youtube.com/watch?v=Jg1sSb-O-F0"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/></a>**|**Пошаговый мастер класс: как создать видео инструкцию в 1С**|**Желтый клуб**|
 |**[infostart.ru](https://infostart.ru/public/1243801/)**|**Vanessa Automation, видеоинструкции для web-клиента**|**Статья с примерами**|
 |**[infostart.ru](https://infostart.ru/1c/articles/1448125/)**|**Vanessa Automation, как начать создавать видеоинструкции**|**Статья с примерами**|
-|**[infostart.ru]([https://infostart.ru/public/1147009/)**|**Jenkins: конфигурируем сервер и подключаем к нему виртуальные машины. Цикл "Многопоточный CI для 1С c Packer, Vagrant и Jenkins"**|**Статья с инструкциями**|
+|**[infostart.ru](https://infostart.ru/public/1147009/)**|**Jenkins: конфигурируем сервер и подключаем к нему виртуальные машины. Цикл "Многопоточный CI для 1С c Packer, Vagrant и Jenkins"**|**Статья с инструкциями**|
 |**<a href="https://www.youtube.com/watch?v=lRGI_fol_bo"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/></a>**|**Создание контура автотестирования**|**Корус**|
 |**<a href="https://www.youtube.com/@ironskills-1c/videos"><img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white" alt="Youtube Badge"/></a>**|**Замер производительности в 1С, Как прочитать JSON в 1С и т.д.**|**Ironskills**|
 |**<a href="https://pr-mex.github.io/vanessa-automation/dev/"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/></a>**|**Статьи, видео и уроки по Vanessa Automation**|**видео, pdf и markdown**|
+|**<a href="https://github.com/1C-CPM?tab=repositories"><img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white" alt="Git Badge"/></a>**|**Сценарии автоматизированного тестирования различных конфигураций - 1С:Бухгалтерия МСФО, 1С:Налоговый мониторинг, УХ, ERP**|**feature-файлы**|
 |**[infostart.ru](https://infostart.ru/edu/2188818/)**|**Разработчик 1С**|**Бесплатный мини-курс**|
 |**[stepik.org](https://stepik.org/course/185666/info)**|**Разработчик 1С с нуля**|**Платный видеокурс**|
 |**[stepik.org](https://stepik.org/course/187221/promo)**|**1С: Система компоновки данных**|**Платный видеокурс**|
